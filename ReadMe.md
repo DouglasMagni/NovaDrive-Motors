@@ -61,14 +61,14 @@ This project demonstrates the implementation of a data pipeline using Apache Air
 
 ### Screenshots
 
-- dbt Models
-  dbt.JPG
+- **dbt Models**  
+  ![dbt Models](screenshots/dbt.JPG)
 
-- Snowflake Data
-  snowflake.jpg
+- **Snowflake Data**  
+  ![Snowflake Data](screenshots/snowflake.jpg)
 
-- Airflow DAG
-  airflow.JPG
+- **Airflow DAG**  
+  ![Airflow DAG](screenshots/airflow.JPG)
 
-- diagram
-  diagram.JPG
+- **Diagram**  
+  ![Diagram](screenshots/diagram.JPG)
